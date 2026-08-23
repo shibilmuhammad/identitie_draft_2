@@ -136,7 +136,7 @@ const Footer = () => {
 
 			<div className="w-full flex items-center justify-center mt-8">
 				<span className="text-white font-poppins text-center">
-					© 2025 Identitie Enrichment Pte Ltd. {isMobile && <br></br>} All Rights Reserved.
+					© 2026 Identitie Enrichment Pte Ltd. {isMobile && <br></br>} All Rights Reserved.
 				</span>
 			</div>
 		</div>
